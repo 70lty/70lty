@@ -9,9 +9,9 @@
 
 <div align="center">
 
-## 💻 My Tech Stack:
+## 💻 I'm working with:
 
-[![lua, c, cpp, cs, visualstudio, vscode](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![lua, c, cpp, cs, visualstudio, vscode](https://skillicons.dev/icons?i=lua,c,cpp,cs,visualstudio,vscode)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
