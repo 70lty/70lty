@@ -3,12 +3,10 @@
 [![Hello World, I'm Zolty!](assets/header.gif)](https://github.com/70lty)
 
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://x.com/zoltyprime) &nbsp;
-
-
 </div>
 
-- 🔭 I’m currently working on [SDA](https://discord.gg/sdajjk) 
+- 🔭 I’m currently working on [SDA](https://discord.gg/sdajjk)
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://x.com/zoltyprime) &nbsp;
 
 <div align="center">
 
