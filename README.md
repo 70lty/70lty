@@ -8,7 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently working on [P33R Finance](https://discord.gg/sdajjk) 
+- 🔭 I’m currently working on [SDA](https://discord.gg/sdajjk) 
 
 <div align="center">
 
