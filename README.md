@@ -13,7 +13,7 @@
 
 ## 💻 I'm working on :
 
-[![lua, c, cpp, cs, visualstudio, vscode, py](https://skillicons.dev/icons?i=lua,c,cpp,cs,visualstudio,vscode,py)](https://skillicons.dev)
+[![lua, c, cpp, cs, py, visualstudio, vscode](https://skillicons.dev/icons?i=lua,c,cpp,cs,visualstudio,vscode,py)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
