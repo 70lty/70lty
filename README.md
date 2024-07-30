@@ -6,13 +6,12 @@
 </div>
 
 - 🔭 I’m currently working on [SDA](https://discord.gg/sdajjk)
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://x.com/zoltyprime) &nbsp;
 
 <div align="center">
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![lua, c, cpp, cs, visualstudio, vscode](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
